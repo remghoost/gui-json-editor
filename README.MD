@@ -23,9 +23,10 @@ Primarily made for `A1111`, but should work on other things.
 - `git clone https://github.com/remghoost/gui-json-editor`
 - `run.bat`
 
-## Things that don't work
+## Things that don't work / to add
 - Sorting
-- Sometimes searching (think I fixed that).
+- Sometimes searching (think I fixed that)
+- Backup original `.json` before saving
 - Edge cases
 
 ### Didn't that one person make this already....?
