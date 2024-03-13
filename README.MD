@@ -11,6 +11,7 @@ Lets you edit `.json` files with a GUI instead of a text editor (bleck).
 Primarily made for `A1111`, but should work on other things.
 
 ## Features
+- Double-click a `value` to change it. **BE SURE TO PRESS ENTER AFTER CHANGING A VALUE**
 - Search by `key` or `value`
 - Remembers your last opened `.json` file
 - Extremely robust saving system (3 options, lmao)
@@ -25,6 +26,7 @@ Primarily made for `A1111`, but should work on other things.
 ## Things that don't work
 - Sorting
 - Sometimes searching (think I fixed that).
+- Edge cases
 
 ### Didn't that one person make this already....?
 Probably. Idk. Wanted to edit `adetailer` defaults and didn't see an easy way to do that.
