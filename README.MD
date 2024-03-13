@@ -20,7 +20,7 @@ Primarily made for `A1111`, but should work on other things.
 ## How to run
 
 - Install [Python 3.10.x](https://www.python.org/downloads/release/python-3109/)
-- `git clone` this repo
+- `git clone https://github.com/remghoost/gui-json-editor`
 - `run.bat`
 
 ## Things that don't work
